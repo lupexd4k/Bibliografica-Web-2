@@ -8,13 +8,3 @@ C:\Users\Donaldo PC\source\repos\ProyectoBlibioteca2\CapaGrafica\obj\Debug\CapaG
 C:\Users\Donaldo PC\source\repos\ProyectoBlibioteca2\CapaGrafica\obj\Debug\CapaGrafica.csproj.CoreCompileInputs.cache
 C:\Users\Donaldo PC\source\repos\ProyectoBlibioteca2\CapaGrafica\obj\Debug\CapaGrafica.exe
 C:\Users\Donaldo PC\source\repos\ProyectoBlibioteca2\CapaGrafica\obj\Debug\CapaGrafica.pdb
-C:\Users\Donaldo PC\Source\Repos\lupexd4k\Bibliografica-Web-2\ProyectoBlibioteca2\CapaGrafica\obj\Debug\CapaGrafica.csprojAssemblyReference.cache
-C:\Users\Donaldo PC\Source\Repos\lupexd4k\Bibliografica-Web-2\ProyectoBlibioteca2\CapaGrafica\obj\Debug\CapaGrafica.Congreso.resources
-C:\Users\Donaldo PC\Source\Repos\lupexd4k\Bibliografica-Web-2\ProyectoBlibioteca2\CapaGrafica\obj\Debug\CapaGrafica.Form1.resources
-C:\Users\Donaldo PC\Source\Repos\lupexd4k\Bibliografica-Web-2\ProyectoBlibioteca2\CapaGrafica\obj\Debug\CapaGrafica.Form2.resources
-C:\Users\Donaldo PC\Source\Repos\lupexd4k\Bibliografica-Web-2\ProyectoBlibioteca2\CapaGrafica\obj\Debug\CapaGrafica.Properties.Resources.resources
-C:\Users\Donaldo PC\Source\Repos\lupexd4k\Bibliografica-Web-2\ProyectoBlibioteca2\CapaGrafica\obj\Debug\CapaGrafica.AdministrarArticulo.resources
-C:\Users\Donaldo PC\Source\Repos\lupexd4k\Bibliografica-Web-2\ProyectoBlibioteca2\CapaGrafica\obj\Debug\CapaGrafica.csproj.GenerateResource.cache
-C:\Users\Donaldo PC\Source\Repos\lupexd4k\Bibliografica-Web-2\ProyectoBlibioteca2\CapaGrafica\obj\Debug\CapaGrafica.csproj.CoreCompileInputs.cache
-C:\Users\Donaldo PC\Source\Repos\lupexd4k\Bibliografica-Web-2\ProyectoBlibioteca2\CapaGrafica\obj\Debug\CapaGrafica.exe
-C:\Users\Donaldo PC\Source\Repos\lupexd4k\Bibliografica-Web-2\ProyectoBlibioteca2\CapaGrafica\obj\Debug\CapaGrafica.pdb

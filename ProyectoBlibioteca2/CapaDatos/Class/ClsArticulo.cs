@@ -33,7 +33,12 @@ namespace CapaDatos.Class
 
                 this.IdArt = aIdArt;
             }
-            public String AdministrarArticulo(ClsArticulo cArticulo, ClsCentro cCentro,
+
+            public int corrector(){
+
+
+            }
+            public String AdminArticulo(ClsArticulo cArticulo, ClsCentro cCentro,
                 ClsInformeTecnico cInforme)
             {
                 String vResultado = "";
@@ -64,6 +69,8 @@ namespace CapaDatos.Class
                 }
                 return vResultado;
             }
+
+
 
             private DataSet dataTable = new DataSet();
             public DataSet GetListaArticulo(ClsArticulo cArticulo, String pAccion)

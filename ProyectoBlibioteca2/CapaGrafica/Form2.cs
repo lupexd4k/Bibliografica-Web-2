@@ -42,7 +42,7 @@ namespace CapaGrafica
             Cen.Descripcion = txtCentro.Text;
             Inf.Mes = int.Parse(txtMes.Text);
             Inf.Anio = int.Parse(txtAnio.Text);
-            Art.AdministrarArticulo(Art, Cen, Inf);
+           // Art.AdminArticulo(Art, Cen, Inf);
             
         }
     }
