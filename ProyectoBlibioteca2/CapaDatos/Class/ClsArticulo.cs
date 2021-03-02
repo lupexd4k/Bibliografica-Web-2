@@ -29,6 +29,8 @@ namespace CapaDatos.Class
                 this.Titulo = aTitulo;
                 this.Correo = aCorreo;
                 this.Tipo = aTipo;
+
+
                 this.IdArt = aIdArt;
             }
             public String AdministrarArticulo(ClsArticulo cArticulo, ClsCentro cCentro,
