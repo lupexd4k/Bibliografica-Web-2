@@ -31,7 +31,8 @@ namespace CapaDatos.Class
                 this.Tipo = aTipo;
                 this.IdArt = aIdArt;
             }
-            public String AdministrarArticulo(ClsArticulo cArticulo, String pAccion)
+            public String AdministrarArticulo(ClsArticulo cArticulo, ClsCentro cCentro,
+                ClsInformeTecnico cInforme)
             {
                 String vResultado = "";
                 if (this.Cn.Conectando())
@@ -43,12 +44,12 @@ namespace CapaDatos.Class
                         SqlCommand coneccion = new SqlCommand();
                         coneccion.Connection = conectado;
                         coneccion.CommandType = CommandType.StoredProcedure;
-                        coneccion.CommandText = "sp_AdministrarArticulo";
+                        coneccion.CommandText = "sp_AdministrarInfoTecnico";
                         coneccion.CommandTimeout = 10;
                         coneccion.Parameters.AddWithValue("@pTitulo", cArticulo.Titulo);
                         coneccion.Parameters.AddWithValue("@pCorreo", cArticulo.Correo);
                         coneccion.Parameters.AddWithValue("@pTipo", cArticulo.Tipo);
-                        coneccion.Parameters.AddWithValue("@pAccion", pAccion);
+                       // coneccion.Parameters.AddWithValue("@pAccion", pAccion);
                         coneccion.Parameters.AddWithValue("@pIdArt", cArticulo.IdArt); 
                         coneccion.ExecuteNonQuery();
                         conectado.Close();
